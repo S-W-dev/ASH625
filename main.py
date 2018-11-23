@@ -40,6 +40,10 @@ if (q == '0'):
 
     print (textFinal)
 else:
+
+            ##Decrytion##
+##########################################
+    
     text = input('Input >> ')
     textFinal = ''
 
